@@ -19,7 +19,7 @@ Structured project brief generation
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/idea-griller.git
+git clone https://github.com/Shubh484/idea-griller.git
 
 
 For Codex, copy the skill into your project:
